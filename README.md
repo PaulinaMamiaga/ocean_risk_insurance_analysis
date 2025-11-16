@@ -316,13 +316,13 @@ If something here sparks your curiosity, inspires you, or makes you think “Thi
 1. Fork the repository
 >
 2. Create a branch for your feature:
-*git checkout -b feature/YourImprovement*
+> *git checkout -b feature/YourImprovement*
 >
 3. Commit your changes with a clear, intentional message:
-*git commit -m "Enhancement: short description of your contribution*
+> *git commit -m "Enhancement: short description of your contribution*
 >
 4. Push your changes:
-*git push origin feature/YourImprovement*
+> *git push origin feature/YourImprovement*
 >
 5. Open a Pull Request and let’s refine it together
 >
