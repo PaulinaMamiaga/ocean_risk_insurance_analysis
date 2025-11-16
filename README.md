@@ -48,14 +48,22 @@ This project was developed using the following technologies and libraries:
 - Extract insights relevant for insurance pricing and coverage design  
 - Build a structured analytical framework: Hypothesis → Insight → Interpretation → Implication → Business Impact → Limitation  
 
-## Dataset
-Source: Global Shark Attack File (GSAF), https://www.sharkattackfile.net/incidentlog.htm
+<details>
+  <summary><strong>📊 Dataset</strong> (click to expand)</summary>
+  <br>
+
+Source: Global Shark Attack File (GSAF),  
+https://www.sharkattackfile.net/incidentlog.htm
 
 The dataset required extensive cleaning due to:
-- Missing or inconsistent age values
-- Unstandardized activity labels
-- Mixed date formats
-- Country and location inconsistencies
+
+- Missing or inconsistent age values  
+- Unstandardized activity labels  
+- Mixed date formats  
+- Country and location inconsistencies  
+
+</details>
+
 
 ## Data Cleaning Process
 
