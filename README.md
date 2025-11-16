@@ -64,13 +64,18 @@ The dataset required extensive cleaning due to:
 
 </details>
 
+<details>
+  <summary><strong>🧹 Data Cleaning Process</strong> (click to expand)</summary>
+  <br>
 
-## Data Cleaning Process
+- [Shark-attacks-Years-Countries-Sex-Fatal.ipynb](Notebooks/Shark-attacks-Years-Countries-Sex-Fatal.ipynb)
+- [Shark-attacks-State-Activity.ipynb](Notebooks/Shark-attacks-State-Activity.ipynb)
+- [Shark-attacks-Date-Injury.ipynb](Notebooks/Shark-attacks-Date-Injury.ipynb)
+- [Shark-attacks-Age.ipynb](Notebooks/Shark-attacks-Age.ipynb)
 
-- [`Shark-attacks-Years-Countries-Sex-Fatal.ipynb`](./Shark-attacks-Years-Countries-Sex-Fatal.ipynb)
-- [`Shark-attacks-State-Activity.ipynb`](./Shark-attacks-State-Activity.ipynb)
-- [`Shark-attacks-Date-Injury.ipynb`](./Shark-attacks-Date-Injury.ipynb)
-- [`Shark-attacks-Age.ipynb`](./Shark-attacks-Age.ipynb)
+</details>
+
+
 
 ## Key Insights & Visuals
 
@@ -293,7 +298,46 @@ From a learning perspective, this project can be extended in future bootcamp or 
 
 Overall, this project should be seen as a **solid first step**: it transforms raw incident data into structured insights and a clear framework for decision-making. With additional data and cross-functional collaboration, it could evolve into a **fully operational tool** for risk-based insurance pricing and product design.
 
-# Contributors
-- Marisa 
-- Paulina Mamiaga
-- Anna Igumnova
+## 🤝 Contributions
+Every contribution is more than a line of code - 
+it’s a step toward a world where data tells stories, guides decisions, and brings humanity and intelligence closer together.
+If something here sparks your curiosity, inspires you, or makes you think “This could be even better,” then you’re already part of the journey.
+ Your ideas, suggestions, and improvements are genuinely welcome.
+
+**You can contribute in two simple ways:**
+
+### 🌱 Have an idea to improve something?
+- Open an issue with the enhancement tag and share your suggestion.
+>
+- Or, if you prefer building directly, go ahead and create your enhancement.
+
+### 🔧 Recommended Contribution Workflow
+>
+1. Fork the repository
+>
+2. Create a branch for your feature:
+*git checkout -b feature/YourImprovement*
+>
+3. Commit your changes with a clear, intentional message:
+*git commit -m "Enhancement: short description of your contribution*
+>
+4. Push your changes:
+*git push origin feature/YourImprovement*
+>
+5. Open a Pull Request and let’s refine it together
+>
+>
+-----
+⭐ If this project adds value to your journey, feel free to leave a star.
+ Small gestures help this exploration grow, reach further, and inspire new ideas.
+Thank you for being part of this story.
+
+
+
+
+
+
+
+
+
+
