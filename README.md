@@ -180,7 +180,7 @@ Although no real financial calculations were performed (due to lack of pricing a
 - **Age-based risk segmentation**  
   Since the 18–45 age group appears as the most exposed, age-based pricing rules could increase accuracy and reduce cross-subsidization across demographics.
 
-### Display: https://docs.google.com/presentation/d/1efQySS4B44dNbokSx_DgbqNBbLwNohNS/edit?usp=sharing&ouid=102643168775087007072&rtpof=true&sd=true
+> ### Display: https://docs.google.com/presentation/d/1efQySS4B44dNbokSx_DgbqNBbLwNohNS/edit?usp=sharing&ouid=102643168775087007072&rtpof=true&sd=true
 
 
 ---
